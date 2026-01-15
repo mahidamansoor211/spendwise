@@ -2,6 +2,11 @@
 
 Spendwise is a **personal expense tracking web application** built with **React** and **Supabase** that helps users manage their income, expenses, and budgets in one place. The app provides insightful dashboards, monthly filters, and a clean user experience with **dark and light mode support**.
 
+## 🔗 Live Demo
+
+Check out the live version of Spendwise here: [Spendwise Live Demo](https://spendwise-blush-two.vercel.app/)
+
+
 ---
 
 ## 🚀 Features
